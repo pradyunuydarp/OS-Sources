@@ -30,6 +30,7 @@ void main(){
 		kill(child_pid,SIGTERM);
 		printf("Check that process %d exited\n", child_pid);
 		getchar();
+		getchar();//when you give actual characters, this functions as intended by removing the newline character in the keyboard buffer
 		wait(&status);
 	}
 }
