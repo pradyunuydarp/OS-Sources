@@ -1,7 +1,7 @@
 # Teach-OS
 
 The content here was created by Prof. Badri for an introductory course on operating systems
-I learned at IIIT Bangalore in Spring 2024.
+I took at IIIT Bangalore in Spring 2024.
 
 There is an attempt to use makefiles, sometimes in different formats to
 encourage students to think about how makefiles work.
